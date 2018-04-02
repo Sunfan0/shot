@@ -1,0 +1,6 @@
+index.pc.node_1.php   ---->原始页面（一个server一个mobile）
+index.pc.node_2.php   ---->一个server多个mobile
+index.pc.node_3.php   ---->一对一页面（多个server每个server对应一个mobile）
+
+
+127.0.0.1/test/test.works/shot/index.pc.node_3.php
